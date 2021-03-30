@@ -1,5 +1,6 @@
 # 2D-Path-Planning-Algorithm
  	The Algorithm was developed for swarm uav applications.
+  IT can still be upgraded by new optimization methods
  	It is designed run in offline environments for holonomic platforms.
  	It requires low CPU allocation.
  	The Algorithm is implemented based on:
